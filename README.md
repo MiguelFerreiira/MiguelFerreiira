@@ -18,7 +18,7 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelFerreiira&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiguelFerreiira&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelFerreiira&theme=nord_dark&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelFerreiira&theme=nord_dark)  | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MiguelFerreiira&theme=nord&border_radius=&exclude_days=Sun%2CSat)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelFerreiira&theme=nord_dark)  | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MiguelFerreiira&theme=nord)](https://git.io/streak-stats) |
 | :-: | :-: |
   
 </div>
