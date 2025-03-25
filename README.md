@@ -7,24 +7,13 @@
       <br>
       Be Welcome!
       <br>
-</div>
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
+
       
 <br>
 <br>
 
 
 <br>
-<details align="center">
-    <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-    </summary>
-    <br>
-<div align="center">
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelFerreiira&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiguelFerreiira&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelFerreiira&theme=nord_dark&utcOffset=8) |
 | :-: | :-: | :-: |
@@ -51,16 +40,18 @@
 
 <br>
 
-##
+
+</div>
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+
 
 <br>
 
 
-##
 
-</details>
 
-<br>
-<br>
+
 
 <img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=729762&textBg=false&section=footer)"/>
