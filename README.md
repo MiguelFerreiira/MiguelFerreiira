@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8FBCBB&textBg=false&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0&textBg=false&section=header"/>
 
 <div align="center">
   <samp>
@@ -42,7 +42,7 @@
 
 </div>
 <div align="center">
-  <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=MiguelFerreiira&s=40&c=8fbcbb&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits"></p> 
+  <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=MiguelFerreiira&s=40&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits"></p> 
 </div>
 
 
@@ -55,4 +55,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8FBCBB&textBg=false&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0&textBg=false&section=footer"/>
