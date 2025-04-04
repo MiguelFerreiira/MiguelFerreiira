@@ -1,58 +1,88 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0&textBg=false&section=header"/>
+# 💻 Miguel Ferreira
 
-<div align="center">
-  <samp>
-    <b>
-      常に学んでいる
-      <br>
-      Be Welcome!
-      <br>
+**`Estudante`**
 
-      
-<br>
-<br>
+Sou Miguel Ferreira tenho 20 anos, nasci em São Paulo, e desde cedo me interessei por tecnologia e inovação. Minha jornada acadêmica começou no SESI Osasco, onde concluí o Ensino Médio em 2022. No mesmo ano, me formei no curso técnico em Eletroeletrônica no SENAI "Mariano Ferraz", onde tive meu primeiro contato com circuitos, automação e lógica de programação. E em 2024, me formei em Análise e Desenvolvimento de Sistemas no SENAI "Nadir Dias de Figueiredo".
 
+---
 
-<br>
+### 🤖 Linguagens e Tecnologias
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelFerreiira&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiguelFerreiira&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelFerreiira&theme=nord_dark&utcOffset=8) |
-| :-: | :-: | :-: |
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Figma" 
+  title="Figma"
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<br/>
+<br/>
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelFerreiira&theme=nord_dark)  | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MiguelFerreiira&theme=nord)](https://git.io/streak-stats) |
-| :-: | :-: |
-  
-</div>
+### 📊 Estatísticas
 
-<div align="center" style="display: inline_block"><br>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GameMakerStudio.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-  
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=MiguelFerreiira&theme=blueberry&show_icons=true&hide_border=false&count_private=true" 
+  />
 
-<br>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelFerreiira&theme=blueberry&show_icons=true&hide_border=false&layout=compact"
+  />
 
-
-<br>
-
-
-</div>
-<div align="center">
-  <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=MiguelFerreiira&s=40&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits"></p> 
-</div>
-
-
-<br>
-
-
-<br>
-
-
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0&textBg=false&section=footer"/>
+</p>
