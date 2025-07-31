@@ -75,7 +75,7 @@ Sou Miguel Ferreira tenho 20 anos, nasci em São Paulo, e desde cedo me interess
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MiguelFerreiira&theme=blueberry&show_icons=true&hide_border=false&count_private=true" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelFerreiira&theme=solarized"  
   />
 
 <img 
